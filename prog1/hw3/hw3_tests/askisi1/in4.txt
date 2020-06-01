@@ -1,0 +1,41 @@
+75706 MILLER,DOROTHY             5.8
+11301 JACKSON,CHARLES            1.5
+11618 CARTER,WILLIAM             2.7
+2316  GARCIA,JEFFREY             5.2
+23307 MARTIN,BETTY               2.4
+10561 ALLEN,BRIAN                9.8
+89028 MARTINEZ,EDWARD            6.4
+44625 JOHNSON,RUTH               8.9
+28493 ADAMS,BRIAN                4.9
+7329  JONES,ELIZABETH            7.4
+86404 CAMPBELL,MARGARET          9.6
+54284 DAVIS,ROBERT               5.6
+14506 LEE,RUTH                   4.5
+97650 THOMAS,PATRICIA            1.2
+ 3361 THOMPSON,RICHARD           8.0
+29284 HARRIS,RONALD              1.6
+12250 HALL,EDWARD                9.8
+26892 CARTER,LISA                8.7
+25624 ANDERSON,KEVIN             1.3
+70731 MOORE,BARBARA              8.7
+83964 MOORE,JOHN                 6.6
+88790 WHITE,JOSE                 0.0
+ 5807 ALLEN,DONALD               0.9
+47173 TURNER,JOSE                6.1
+39786 TURNER,DOROTHY             7.3
+2268  SCOTT,MARK                 9.5
+63840 ROBINSON,DOROTHY           8.9
+93895 CAMPBELL,RONALD            0.6
+63926 THOMAS,MICHAEL             1.7
+71803 MILLER,JEFFREY             8.9
+48299 ADAMS,MATTHEW              7.8
+52683 TURNER,RUTH                1.7
+50543 HARRIS,BRIAN               0.0
+ 9399 RAMIREZ,GARY               7.3
+39108 TORRES,RUTH                0.7
+24726 BROWN,ELIZABETH            9.7
+42910 CAMPBELL,RUTH              9.2
+64431 LEWIS,SUSAN                7.7
+3909  WALKER,JENNIFER            3.9
+53414 HARRIS,JOSEPH             10.0
+-66

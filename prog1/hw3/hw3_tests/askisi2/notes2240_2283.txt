@@ -1,0 +1,4 @@
+insertion sort (profanws la8os) in1.txt 32767, in2.txt 32767, in3.txt 32767, in4.txt 35165
+selection sort (mporei swsth) in1.txt 1, in2.txt 1, in3.txt 6, in4.txt 4950
+
+An ta apotelesmata htan swsta tote i selection 8a 8ewrountan poly pio grhgorh apo thn insertion!

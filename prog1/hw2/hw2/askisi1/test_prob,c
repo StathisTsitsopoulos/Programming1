@@ -1,0 +1,7 @@
+
+int probability () {
+	int pi8anothta;
+	pi8anothta = low + rand() % (high - low + 1);
+	srand((int)time(NULL));
+	return (pi8anothta);
+}
